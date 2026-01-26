@@ -2,7 +2,7 @@
 
 ```
 $ whoami
-Tin Aung Lin — IT Guy
+tinaunglin — IT Guy
 ```
 
 ---
