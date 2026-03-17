@@ -70,4 +70,4 @@ stack := map[string][]string{
 
 ---
 
-<sub>🇲🇲 → 🇸🇬 | [tinaung.lin@icloud.com](mailto:tinaung.lin@icloud.com)</sub>
+<sub>🇲🇲 → 🇸🇬 | [tinaunglin@linux.com](mailto:tinaung.lin@icloud.com)</sub>
