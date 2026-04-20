@@ -67,6 +67,7 @@ stack := map[string][]string{
 - Calico policies that block everything, including myself
 - Home Proxmox cluster (again)
 - Whatever LLM MCP integration I'm hacking on
+- ECS and Github Now ( new job new stack )
 
 ---
 
