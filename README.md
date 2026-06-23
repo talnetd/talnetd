@@ -45,7 +45,7 @@ streaming-backend  feat: nginx-hls + ffmpeg for Myanmar Cast
 OS:      Gentoo btw (and Debian in prod, I'm not insane)
 Shell:   zsh + tmux
 Editor:  neovim
-WM:      i3 (fight me)
+WM:      i3 (fight me) now hyprland forgive I joined the dark side already
 Term:    ghostty
 ```
 
